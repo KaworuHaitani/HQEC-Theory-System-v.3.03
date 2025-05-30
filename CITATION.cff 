@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+type: software
+title: "HQEC Theory System v.3.03 (Separated Interference Tensor with Primordial Equation and Codex-Φ Formalism)"
+version: 3.03
+date-released: 2025
+url: "https://github.com/KaworuHaitani?tab=repositories"
+repository-code: "https://github.com/KaworuHaitani?tab=repositories"
+abstract: "Advanced theoretical framework unifying quantum information processing across scales through the separated interference tensor formalism. Version 3.03 introduces the primordial equation Ω_c(Φ)=0 with explicit physical constants, a complete topological geometric interpretation, and the Codex-Φ syntactic representation layer. The theory provides precise mathematical foundations for quantum-classical transitions with experimental verification across DNA, neural, and astronomical scales."
+keywords:
+  - "quantum physics"
+  - "separated interference tensor"
+  - "primordial equation"
+  - "Codex-Φ formalism"
+  - "quantum Fisher information"
+  - "observational curvature"
+  - "topological interpretation"
+  - "unified field theory"
+  - "golden ratio"
+  - "scale hierarchy"
+  - "syntactic representation"
+references:
+  - type: website
+    url: "https://note.com/haitani_kaworu_s/n/n32dc4d29c29f"
+    title: "HQEC Theory Related Resources"
+
